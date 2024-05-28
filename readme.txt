@@ -1,1 +1,1 @@
-Hello I am Shaqib . I ma learning the git.
+Hello I am Shaqib . I am learning the git.
